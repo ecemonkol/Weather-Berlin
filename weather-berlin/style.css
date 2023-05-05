@@ -1,0 +1,114 @@
+* {
+    font-family: 'Jost', sans-serif;
+
+}
+
+.temp {
+    display: inline-block;
+}
+
+
+
+h3 {
+  
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+    font-size: x-large;
+    color: rgb(255, 255, 255, 0.7);
+    margin: 0;
+}
+
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    margin: 0px;
+    
+
+}
+
+h4 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color:rgba(240, 248, 255, 0.271);
+    font-size: 60px;
+    
+    display: flex;
+    justify-content: center;
+}
+
+
+img {
+    width: 200px;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    margin: 0px;
+    padding-top: 40px;
+    font-size: 100px;
+}
+
+.temp {
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(171deg, rgb(64, 134, 225) 33%, rgba(253,104,45,1) 99%);
+    justify-content: center;
+}
+
+.property {
+    font-weight:300;
+    color: rgba(255, 255, 255, 0.7);
+    align-self:auto;
+    text-align: center;
+    font-size: 16px;
+
+}
+
+.value {
+    color: white;
+    text-align: center;
+    font-weight: 400;
+}
+
+h3#timezone {
+    padding: 0px;
+}
+
+
+th {
+    width: 220px;
+    height: 10px;
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    border-bottom: 2px rgba(255, 255, 255, 0.277) solid;
+}
+
+
+.temp1 {
+    color: aliceblue;
+}
+
+table.outputs {
+    padding: 10px;
+    
+}
+
+table {
+    display: flex;
+    justify-content: center;
+    background-size: contain;
+    
+}
